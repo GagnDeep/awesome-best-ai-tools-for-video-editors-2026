@@ -262,6 +262,19 @@ Point-in-time note: stars and activity dates below are April 2026 GitHub snapsho
 
 ---
 
+#### [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+> **Description:** MIT-licensed, local-first TypeScript CLI and MCP toolkit for coding agents to compose, edit, generate, and assemble videos from editable `plan.json` timelines.
+
+- **GitHub:** [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+- **Stars:** 486 ⭐
+- **Language:** TypeScript
+- **License:** MIT
+- **Last Commit:** 2026-09-10
+- **Category:** agent-driven video composition and editing
+- **Best for:** editable, re-renderable video workflows driven by coding agents; install from source while npm publication is pending
+
+---
+
 ### Lip Sync, Talking Heads, and Face Workflows
 
 #### [SadTalker](https://github.com/OpenTalker/SadTalker)
