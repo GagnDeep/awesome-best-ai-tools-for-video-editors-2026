@@ -402,6 +402,7 @@ Point-in-time note: stars and activity dates below are April 2026 GitHub snapsho
 If you want the shortest shortlist, start with `openai/whisper`, `SYSTRAN/faster-whisper`, `xinntao/Real-ESRGAN`, `TencentARC/GFPGAN`, `nihui/rife-ncnn-vulkan`, `sczhou/ProPainter`, and `adefossez/demucs`. Those repos cover the most common post tasks: subtitles, restoration, face cleanup, retiming, object removal, and audio separation.
 
 ### Are there any truly free AI video editor tools on GitHub?
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 Yes, but "free" still depends on hardware, time, and licensing constraints. Every tool in this list has a public GitHub repository, but some are research-oriented, some require a strong GPU, and some have non-commercial or atypical licenses. Always check the repo license before client work.
 
 ### Which GitHub repos are best for subtitles and captions?
