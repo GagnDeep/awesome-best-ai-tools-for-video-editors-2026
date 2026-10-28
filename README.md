@@ -262,6 +262,19 @@ Point-in-time note: stars and activity dates below are April 2026 GitHub snapsho
 
 ---
 
+#### [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio)
+> **Description:** Local subtitle-review workspace for SDH sound captions and Chinese-source/English-translation tracks, with SRT/ITT export and review history. Existing paired-SRT review needs no AI account. Optional local ASR needs separate model dependencies; Qwen cloud assistance uses the user's account and may incur charges. Version 2.0.0-rc.5 is a public preview and requires human audiovisual review.
+
+- **GitHub:** [github.com/OakcoderX/solopup-subtitle-studio](https://github.com/OakcoderX/solopup-subtitle-studio)
+- **Stars:** 0 (2026-10-28 snapshot)
+- **Language:** Python
+- **License:** MIT
+- **Last Commit:** 2026-10-28
+- **Category:** subtitle review, SDH, localization
+- **Best for:** reviewing paired subtitle screens and sound captions before exporting draft tracks
+
+---
+
 ### Lip Sync, Talking Heads, and Face Workflows
 
 #### [SadTalker](https://github.com/OpenTalker/SadTalker)
